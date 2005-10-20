@@ -8,7 +8,7 @@ Group:		X11/Development/Libraries
 Source0:	http://xorg.freedesktop.org/releases/X11R7.0-RC1/proto/xf86rushproto-%{version}.tar.bz2
 # Source0-md5:	eb2e5a127aa828b13c50b0f396f28f18
 URL:		http://xorg.freedesktop.org/
-BuildRequires:	autoconf
+BuildRequires:	autoconf >= 2.57
 BuildRequires:	automake
 BuildRequires:	pkgconfig >= 0.19
 BuildRequires:	xorg-util-util-macros
