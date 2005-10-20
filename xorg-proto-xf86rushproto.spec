@@ -1,12 +1,12 @@
 Summary:	XF86Rush protocol and ancillary headers
 Summary(pl):	Nag³ówki protoko³u XF86Rush i pomocnicze
 Name:		xorg-proto-xf86rushproto
-Version:	1.1
+Version:	1.1.1
 Release:	0.02
 License:	MIT
 Group:		X11/Development/Libraries
-Source0:	http://xorg.freedesktop.org/X11R7.0-RC0/proto/xf86rushproto-%{version}.tar.bz2
-# Source0-md5:	61ba57edd16ef37894f0d9f13ac5bb67
+Source0:	http://xorg.freedesktop.org/releases/X11R7.0-RC1/proto/xf86rushproto-%{version}.tar.bz2
+# Source0-md5:	eb2e5a127aa828b13c50b0f396f28f18
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf
 BuildRequires:	automake
@@ -24,7 +24,7 @@ Nag³ówki protoko³u XF86Rush i pomocnicze.
 Summary:	XF86Rush protocol and ancillary headers
 Summary(pl):	Nag³ówki protoko³u XF86Rush i pomocnicze
 Group:		X11/Development/Libraries
-Requires:	xorg-proto-xproto-devel
+Requires:	xorg-proto-videoproto-devel
 
 %description devel
 XF86Rush protocol and ancillary headers.
