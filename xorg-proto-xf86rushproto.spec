@@ -5,8 +5,8 @@ Version:	1.1.2
 Release:	0.1
 License:	MIT
 Group:		X11/Development/Libraries
-Source0:	http://xorg.freedesktop.org/releases/X11R7.0-RC4/proto/xf86rushproto-%{version}.tar.bz2
-# Source0-md5:	773b6de09c0f7aa1c2c48fb3b612d993
+Source0:	http://xorg.freedesktop.org/releases/X11R7.0/src/proto/xf86rushproto-%{version}.tar.bz2
+# Source0-md5:	b6a96ffdae084e27487a58314008b000
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.57
 BuildRequires:	automake
