@@ -1,5 +1,5 @@
 Summary:	XF86Rush protocol and ancillary headers
-Summary(pl):	Nag丑wki protoko硊 XF86Rush i pomocnicze
+Summary(pl.UTF-8):   Nag艂贸wki protoko艂u XF86Rush i pomocnicze
 Name:		xorg-proto-xf86rushproto
 Version:	1.1.2
 Release:	1
@@ -16,20 +16,20 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 XF86Rush protocol and ancillary headers.
 
-%description -l pl
-Nag丑wki protoko硊 XF86Rush i pomocnicze.
+%description -l pl.UTF-8
+Nag艂贸wki protoko艂u XF86Rush i pomocnicze.
 
 %package devel
 Summary:	XF86Rush protocol and ancillary headers
-Summary(pl):	Nag丑wki protoko硊 XF86Rush i pomocnicze
+Summary(pl.UTF-8):   Nag艂贸wki protoko艂u XF86Rush i pomocnicze
 Group:		X11/Development/Libraries
 Requires:	xorg-proto-videoproto-devel
 
 %description devel
 XF86Rush protocol and ancillary headers.
 
-%description devel -l pl
-Nag丑wki protoko硊 XF86Rush i pomocnicze.
+%description devel -l pl.UTF-8
+Nag艂贸wki protoko艂u XF86Rush i pomocnicze.
 
 %prep
 %setup -q -n xf86rushproto-%{version}
