@@ -2,7 +2,7 @@ Summary:	XF86Rush protocol and ancillary headers
 Summary(pl.UTF-8):	Nagłówki protokołu XF86Rush i pomocnicze
 Name:		xorg-proto-xf86rushproto
 Version:	1.1.2
-Release:	2
+Release:	3
 License:	MIT
 Group:		X11/Development/Libraries
 Source0:	http://xorg.freedesktop.org/releases/individual/proto/xf86rushproto-%{version}.tar.bz2
